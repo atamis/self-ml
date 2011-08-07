@@ -1,6 +1,6 @@
 = SelfML-ruby
 
-* https://github.com/fileability/self-ml (url)
+* https://github.com/fileability/self-ml
 
 == DESCRIPTION:
 
@@ -8,7 +8,7 @@ A SelfML parser in Ruby.
 
 == FEATURES/PROBLEMS:
 
-* parses SelfML (list of features or problems)
+* parses SelfML
 
 == SYNOPSIS:
 

@@ -3,7 +3,7 @@
 require 'rubygems'
 require 'hoe'
 
-Hoe.spec 'Ruby' do
+Hoe.spec 'self-ml' do
   developer('Indigo Casson', 'atamiser@gmail.com')
 
   # self.rubyforge_name = 'Rubyx' # if different than 'Ruby'
