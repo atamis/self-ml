@@ -1,0 +1,12 @@
+# -*- ruby -*-
+
+require 'rubygems'
+require 'hoe'
+
+Hoe.spec 'Ruby' do
+  developer('Indigo Casson', 'atamiser@gmail.com')
+
+  # self.rubyforge_name = 'Rubyx' # if different than 'Ruby'
+end
+
+# vim: syntax=ruby
